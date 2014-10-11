@@ -12,6 +12,9 @@ It's Pat - alls ekki besta mynd í heimi
 <<<<<<< HEAD
 The Godfather
 
+The Lord of the Rings
+Etta er nottla bara klassík
+
 =======
 Captain America: World Police ( akkuru svona langt niðri? )
 >>>>>>> 95fb1ab8bc254221ea2211a67c6b39d4e2f6d979
